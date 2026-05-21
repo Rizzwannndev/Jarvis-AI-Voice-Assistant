@@ -1,4 +1,4 @@
-# 🤖 Jarvis — AI Voice Assistant
+# 🤖 Jarvis - AI Voice Assistant
 
 A Python-based voice assistant that responds to the wake word **"Jarvis"** and handles commands using OpenAI's GPT, speech recognition, and text-to-speech.
 
